@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "genericModelMVVM/Controller/ViewController.swift"
+            timestampString = "583335582.938344"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "getUserDetail()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "genericModelMVVM/Controller/ViewController.swift"
+            timestampString = "583335582.938448"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "getUserDetail()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "genericModelMVVM.ViewController.(getUserDetail in _0C116C44CF761701AC93195F0593A26A)() -&gt; ()"
+                  moduleName = "genericModelMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stuser/Documents/Examples/genericModelMVVM/genericModelMVVM/Controller/ViewController.swift"
+                  timestampString = "583335583.096706"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;genericModelMVVM.UserDetailModel&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in genericModelMVVM.ViewController.(getUserDetail in _0C116C44CF761701AC93195F0593A26A)() -&gt; ()"
+                  moduleName = "genericModelMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stuser/Documents/Examples/genericModelMVVM/genericModelMVVM/Controller/ViewController.swift"
+                  timestampString = "583335583.1359071"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "85">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
