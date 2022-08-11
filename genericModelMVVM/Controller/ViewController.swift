@@ -30,13 +30,13 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
         getPersonList(index: 0)
     }
     
 }
 
-extension ViewController {  // MARK: Call Api View Model
+// MARK: Call Api View Model
+extension ViewController {
    
     private func getPersonList(index:Int){
         // Here you can also call directly Generic methods with passing Model Class. It will return same model with data.
@@ -51,7 +51,8 @@ extension ViewController {  // MARK: Call Api View Model
 }
 
 
-extension ViewController: UITableViewDelegate, UITableViewDataSource{  // MARK: TableView
+// MARK: TableView
+extension ViewController: UITableViewDelegate, UITableViewDataSource{
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         
